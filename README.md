@@ -4,7 +4,7 @@
  ### Technologies
 - [x] Pods
 - [x] Lottie
-- [x] VFoundation
+- [x] AVFoundation
 
 ### Recording
 
